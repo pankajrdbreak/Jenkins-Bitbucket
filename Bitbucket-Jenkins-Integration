@@ -1,3 +1,10 @@
-# Bitbucket & Jenkins Integration
+# CI-CD Pipeline with Bitbucket-Jenkins
 
-In this tutorial we will learn how to 
+In this tutorial we will learn how to Push the code from butbucket to dev server using jenkins pipeline
+
+##Prequicites
+1. Jenkins Server
+2. Bitbucket repository with project
+3. Dev Server
+
+
